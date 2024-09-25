@@ -6,6 +6,8 @@
 <p align="left">Hello! I'm Muskaan Aggarwal, a 3rd-year ECE student at MAIT with a strong interest in Artificial Intelligence and Machine Learning. I am passionate about leveraging AI/ML technologies to solve real-world problems and am continuously working on enhancing my skills in these areas.
 </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Muskaan-Aggarwal" alt="Muskaan-Aggarwal" /></a> </p>
+
 <hr>
 
 
@@ -24,43 +26,71 @@
 ## 🤝 About Me
 
   ✨ Creating bugs since I started coding<br>
+
+  🚧 **Work in Progress**: Turning those bugs into features one commit at a time!<br>
   
-  📚 I'm currently learning Business Analytics and PyTorch Development<br>
+  📚 I'm currently learning Data Structures and Algorithms with Artificial Intelligence and Machine Learning <br>
   
-  🎯 Goals: To innovate in AI and develop impactful projects<br>
+  🎯 Goals: To leverage AI to develop innovative and impactful solutions that address real-world challenges and improve lives.<br>
   
   👨‍💻 Web Scraping, Browser Automation, Python Scripting <br>
   
-  🎲 Fun fact: I love sprinting and have won several medals in athletics<br>
-  
+  🎲 Fun fact: While studying circuits and signals, I realized that debugging code is a lot like troubleshooting electronic circuits—both require patience, creativity, and a bit of trial and error!<br>
 
+  💬 Ask me about **Python, Artificial Intelligence and Machine Learning**<br>
+
+  📫 How to reach me **muskaanaggarwal2003@gmail.com**<br>
+  
 ## ⚙️ Tools & Technologies Used
 
 <p align="left">
  <a href="#">
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="PyTorch" src="https://img.shields.io/badge/pytorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
-<img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
-<img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="VSCode" src="https://img.shields.io/badge/vscode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-<img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
-<img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="SQL" src="https://img.shields.io/badge/sql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
+<img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
+<img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-<img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%2344A1D6.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img alt="Material UI" src="https://img.shields.io/badge/material%20ui-%2385B1D8.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
+<img alt="TensorFlow" src="https://img.shields.io/badge/tensorflow%20-%23FF6F20.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img alt="Keras" src="https://img.shields.io/badge/keras%20-%23D00000.svg?&style=for-the-badge&logo=keras&logoColor=white"/>
+<img alt="PyTorch" src="https://img.shields.io/badge/pytorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn%20-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img alt="XGBoost" src="https://img.shields.io/badge/xgboost-%2304D0D4.svg?&style=for-the-badge&logo=xgboost&logoColor=white"/>
+<img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
+<img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white"/>
+<img alt="Apache Spark" src="https://img.shields.io/badge/apache%20spark-%23E35B00.svg?&style=for-the-badge&logo=apache-spark&logoColor=white"/>
+<img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib%20-%233B6D9D.svg?&style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img alt="Seaborn" src="https://img.shields.io/badge/seaborn%20-%231F6F8A.svg?&style=for-the-badge&logo=seaborn&logoColor=white"/>
+<img alt="Tableau" src="https://img.shields.io/badge/Tableau%20-%23E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white"/>
+<img alt="MLflow" src="https://img.shields.io/badge/mlflow-%23465B73.svg?&style=for-the-badge&logo=mlflow&logoColor=white"/>
+<img alt="NLP" src="https://img.shields.io/badge/nlp%20-%230B3D51.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
+<img alt="OpenCV" src="https://img.shields.io/badge/opencv%20-%232C3E50.svg?&style=for-the-badge&logo=opencv&logoColor=white"/>
+<img alt="OpenAI" src="https://img.shields.io/badge/openai-%23F34B20.svg?&style=for-the-badge&logo=openai&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
+<img alt="Google Colab" src="https://img.shields.io/badge/google%20colab-%23FFDD00.svg?&style=for-the-badge&logo=googlecolab&logoColor=black"/>
+<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-%2323BBA1.svg?&style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img alt="Canva" src="https://img.shields.io/badge/canva-%23280D4D.svg?&style=for-the-badge&logo=canva&logoColor=white"/>
+<img alt="Microsoft Office" src="https://img.shields.io/badge/microsoft%20office-%23C74B1A.svg?&style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+<img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%23F68B1F.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
+<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+<img alt="Adobe Animate" src="https://img.shields.io/badge/adobe%20animate-%23F9A800.svg?&style=for-the-badge&logo=adobe-animate&logoColor=white"/>
+<img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%2300A3E0.svg?&style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
  </a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muskaan-Aggarwal&show_icons=true&locale=en&layout=compact" alt="prakhar1535" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muskaan-Aggarwal&show_icons=true&locale=en" alt="prakhar1535" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muskaan-Aggarwal&" alt="prakhar1535" /></p>
+
+<!--
