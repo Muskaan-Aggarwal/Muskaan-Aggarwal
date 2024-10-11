@@ -3,7 +3,7 @@
 <h1 align="left">Hey there, I'm <a href="https://www.linkedin.com/in/muskaan-aggarwal-078275302/">Muskaan Aggarwal </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
  <img align="right" src="https://github.com/user-attachments/assets/d3eafa34-62b3-48c8-be66-2f4767396433" width="200"/></a> - AI-ML Enthusiast</h1> 
 
-<p align="left">Hello! I'm Muskaan Aggarwal, a 3rd-year ECE student at MAIT with a strong interest in Artificial Intelligence and Machine Learning. I am passionate about leveraging AI/ML technologies to solve real-world problems and am continuously working on enhancing my skills in these areas.
+<p align="left">Hello! I'm Muskaan Aggarwal, a 3rd-year ECE student at MAIT with a strong interest in Artificial Intelligence and Machine Learning. I am passionate about leveraging AI/ML technologies to solve real-world problems and am continuously working on enhancing my skills in these areas
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Muskaan-Aggarwal&theme=matrix" alt="Muskaan-Aggarwal" /></a> </p>
