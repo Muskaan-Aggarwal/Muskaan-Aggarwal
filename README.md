@@ -6,7 +6,7 @@
 <p align="left">Hello! I'm Muskaan Aggarwal, a 3rd-year ECE student at MAIT with a strong interest in Artificial Intelligence and Machine Learning. I am passionate about leveraging AI/ML technologies to solve real-world problems and am continuously working on enhancing my skills in these areas
 </p>
 
-<p align="left"> <a href="https://github.com/Muskaan-Aggarwal/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Muskaan-Aggarwal" alt="Muskaan-Aggarwal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Muskaan-Aggarwal" alt="Muskaan-Aggarwal" /></a> </p>
 
 <hr>
 
