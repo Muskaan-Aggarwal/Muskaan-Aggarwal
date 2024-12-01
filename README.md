@@ -91,6 +91,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muskaan-Aggarwal&show_icons=true&locale=en" alt="prakhar1535" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muskaan-Aggarwal&" alt="prakhar1535" /></p>
 
 
