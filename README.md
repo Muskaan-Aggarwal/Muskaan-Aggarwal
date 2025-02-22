@@ -39,7 +39,7 @@
 
   💬 Ask me about **Python, Artificial Intelligence and Machine Learning**<br>
 
-  📫 How to reach me **muskaanaggarwal273@gmail.com**<br>
+  📫 How to reach me **muskaanaggarwal2003@gmail.com**<br>
   
 ## ⚙️ Tools & Technologies Used
 
